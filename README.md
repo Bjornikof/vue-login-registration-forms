@@ -1,4 +1,4 @@
-# hello-world
+# vue-login-registration-forms
 
 ## Project setup
 ```
